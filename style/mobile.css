@@ -35,7 +35,6 @@
     color: #fff;
     background: rgb(240, 12, 118);
     padding: 10px;
-    border: solid blue 3px;
     cursor: pointer;
     
 }
@@ -46,7 +45,6 @@
     width: 100%;
     text-align: center;
     height: auto;
-     border: solid black 3px;
 }
 
 /* About page */
