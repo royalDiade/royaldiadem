@@ -35,8 +35,9 @@
     color: #fff;
     background: rgb(240, 12, 118);
     padding: 10px;
-    border: none;
+    border: solid blue 3px;
     cursor: pointer;
+    
 }
 /* Boxes */
 
@@ -45,6 +46,7 @@
     width: 100%;
     text-align: center;
     height: auto;
+     border: solid black 3px;
 }
 
 /* About page */
