@@ -81,3 +81,16 @@
     border: none;
     cursor: pointer;
 }
+
+
+#main-footer {
+    text-align: center;
+    background:rgb(21, 133, 6);
+    color: #fff;
+    padding: 10px;
+}
+
+#main-footer p{
+    font-size: 12px;
+    font-weight: bold;
+}
